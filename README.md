@@ -26,10 +26,9 @@ This project implements a deep learning model for image classification using PyT
    
 ## Usage:
 
-1. Execute the below code:
+1. Execute the S5.ipynb python notebook to run the model.
 
-   ```bash
-    python main.py
+ 
 
 ## Files Structure:
    
@@ -37,7 +36,7 @@ This project implements a deep learning model for image classification using PyT
   
   utils.py: Contains utility functions for data loading, training, and testing.
   
-  main.py: Main script to run the project.
+  S5.ipynb: step by step exeuction.
   
   README.md: Documentation file.
   
