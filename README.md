@@ -26,11 +26,12 @@ This project implements a deep learning model for image classification using PyT
    
 ## Usage:
 
-    ```bash
-      python main.py
+1. Execute the below code:
 
+   ```bash
+    python main.py
 
-## Files Structure
+## Files Structure:
    
   model.py: Defines the neural network architecture.
   
@@ -53,8 +54,8 @@ This project implements a deep learning model for image classification using PyT
   torchsummary
   
   tqdm
-  
-  Install dependencies using:
+
+  1. Install dependencies using:
 
       ```bash
       pip install torch torchvision matplotlib torchsummary tqdm
