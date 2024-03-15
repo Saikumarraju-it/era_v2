@@ -30,6 +30,7 @@
 
 ## when learning rate = 0.1
 <img width="494" alt="Screenshot 2024-03-02 at 12 36 58 AM" src="https://github.com/Saikumarraju-it/era_v2/assets/66442795/3e5b8710-08c4-4ba5-b331-cb70b94a31e7">
+
 ## when learning rate = 0.2
 <img width="494" alt="Screenshot 2024-03-02 at 12 37 56 AM" src="https://github.com/Saikumarraju-it/era_v2/assets/66442795/3cd596d7-855b-4753-be47-469a05c5ddb8">
 
