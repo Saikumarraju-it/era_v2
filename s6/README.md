@@ -1,4 +1,7 @@
+# Part-1
+
 # Back Propagation Steps:
+
 
 ## Step1: Get the forword equations , sigmoids and the loss function.
 ![image](https://github.com/Saikumarraju-it/era_v2/assets/66442795/70aea608-2cf4-40ea-a877-e1ee53606ec2)
